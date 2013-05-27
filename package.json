@@ -1,0 +1,12 @@
+{
+  "name": "mongooseIssue",
+  "version": "0.0.0",
+  "description": "simulating mongoose issue",
+  "main": "index.js",
+  "repository": "https://github.com/Ostro/mongooseIssue.git",
+  "author": "Ostro",
+  "license": "BSD",
+  "dependencies": {
+    "mongoose": "~3.6.11"
+  }
+}

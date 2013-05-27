@@ -1,0 +1,1 @@
+exports.model = require('./model.coffee').model;
