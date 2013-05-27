@@ -1,5 +1,7 @@
 mongoose = require 'mongoose'
 
+console.log mongoose
+
 schema = mongoose.Schema(
   value : String
 )

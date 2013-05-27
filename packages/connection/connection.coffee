@@ -24,6 +24,7 @@ openMongoose = (callback)->
       callback(err)
     else
       console.log "Mongoose connection OK"
+      console.log mongoose
       callback()
 
 
